@@ -1,0 +1,14 @@
+images/
+fonts/
+data/
+config.cfg
+
+SDL2_image.dll
+SDL2_ttf.dll
+
+.vs/
+ANGE.sln
+ANGE.vcxproj
+ANGE.vcxproj.filters
+ANGE.vcxproj.user
+x64/
